@@ -12,7 +12,7 @@ Over a decade of experience guiding professionals across sectors to master the E
 
 ### Get Started Today
 
-Ready to take the next step in your English journey? [Message me](mailto:arfbrown@gmail.com) to set up a free strategy call. Together, we'll give you the tools and confidence to achieve your English communication goals.
+Ready to take the next step in your English journey? [Message me](mailto:arfbrown+git@gmail.com) to set up a free strategy call. Together, we'll give you the tools and confidence to achieve your English communication goals.
 ### More About Me 👋
 
 - 🔭 I’m currently working on a sleep science class for non-native speakers. Learn TWO things at once! Woo Hoo!
