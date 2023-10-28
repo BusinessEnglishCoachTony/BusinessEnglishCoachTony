@@ -1,9 +1,6 @@
 ---
 
-##Tony Brown - Business English Coaching Services
----
-
-# Business English Coaching with Anthony Brown
+# Business English Coaching with Tony Brown
 
 Over a decade of experience guiding professionals across sectors to master the English language. Whether you're in healthcare, IT, or just looking to improve, I'm here to help.
 
