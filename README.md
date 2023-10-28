@@ -6,7 +6,7 @@ Over a decade of experience guiding professionals across sectors to master the E
 
 ## Why Work With Me?
 
-* Expertise in healthcare, IT, and English coaching.
+* Years of experience in healthcare, IT, and English coaching. We speak a common Language!
 * Proven record of success with CEOs, PhDs, and even nervous relatives prepping for wedding speeches.
 * Tailored approach to suit your unique needs.
 
