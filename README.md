@@ -15,10 +15,6 @@ Over a decade of experience guiding professionals across sectors to master the E
 Ready to take the next step in your English journey? [Message me](mailto:arfbrown@gmail.com) to set up a free strategy call. Together, we'll give you the tools and confidence to achieve your English communication goals.
 ### More About Me 👋
 
-**BusinessEnglishCoachTony/BusinessEnglishCoachTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a sleep science class for non-native speakers. Learn TWO things at once! Woo Hoo!
 - 🌱 I’m currently learning HTML, CSS and JS. I have a LOOOOONG way to go, but I will keep on trying!
 - 👯 I’m looking to collaborate on ways to improve communication among teams. 
