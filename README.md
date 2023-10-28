@@ -15,7 +15,6 @@ Over a decade of experience guiding professionals across sectors to master the E
 Ready to take the next step in your English journey? [Message me](mailto:arfbrown@gmail.com) to set up a free strategy call. Together, we'll give you the tools and confidence to achieve your English communication goals.
 ### More About Me 👋
 
-<!--
 **BusinessEnglishCoachTony/BusinessEnglishCoachTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM me on LinkedIn : www.linkedin.com/in/tony-brown-mba-rpsgt-cse-33607363 OR: arfbrown+git@gmail.com
 - ⚡ Fun fact: I lived in Japan for many years and USED to be pretty fluent in Japanese!
 -->
+<!--
